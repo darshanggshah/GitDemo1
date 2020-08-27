@@ -17,4 +17,11 @@ public class SeleniumTest {
 		System.out.println("elementsui");
 		
 	}
+	
+	@Test
+	public void elementsandroid()
+	{
+		System.out.println("elementsandroid");
+		
+	}
 }
